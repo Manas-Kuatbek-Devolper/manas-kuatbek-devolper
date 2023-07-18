@@ -5,7 +5,7 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С ноября 2022 года по апрель 2023 я изучал Java разработку на курсах "Bitlab academy. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы.
+Я начинающий Java backend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. С ноября 2022 года по апрель 2023 я изучал Java разработку на курсах "Bitlab academy. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы.
 <p align="center">
  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </p>
